@@ -3,7 +3,7 @@ title: A python utility for loading stl and visualization
 date: 2017-03-07 17:00:00
 tags: QDS
 ---
-![](img/brainSkull.png)
+![](http://sotw.servebeer.com:8086/img/brainSkull.png)
 
 ##A python utility for loading stl and visualization
 
