@@ -19,7 +19,7 @@ Simply issue install and make sure
 ~/bin/sh is existed inside your bashrc $PATH variable
 ```
 
-#### Dependence
+#### Dependency
 You will need to make sure your python can import everything.
 for example: vtk
 
