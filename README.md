@@ -16,7 +16,7 @@ git clone https://github.com/sotw/qds_loader_stl.git
 Simply issue install and make sure 
 
 ```
-~/bin/sh is existed in your bashrc.
+~/bin/sh is existed inside your bashrc $PATH variable
 ```
 
 #### Dependence
