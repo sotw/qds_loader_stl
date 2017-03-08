@@ -19,6 +19,8 @@ Simply issue install and make sure
 ~/bin/sh is existed inside your bashrc $PATH variable
 ```
 
+[refer1](https://gist.github.com/Hodapp87/8874941)
+
 #### Dependency
 You will need to make sure your python can import everything.
 for example: vtk
